@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\bin\Debug\Shors algorithm.exe.config
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\bin\Debug\Shors algorithm.exe
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\bin\Debug\Shors algorithm.pdb
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors_algorithm.Properties.Resources.resources
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.exe
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors algorithm.pdb
+C:\Users\Alex\source\repos\Shors algorithm\Shors algorithm\obj\Debug\Shors_algorithm.View.resources
